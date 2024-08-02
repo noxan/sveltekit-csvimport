@@ -1,3 +1,10 @@
+# SvelteKit csv import
+
+SvelteKit project for importing a csv file and guide on how to bridge the gap between browser file form data and server file streams.
+
+Read the full article https://medium.com/@richard.stromer/parse-csv-files-with-sveltekit-how-to-transform-web-file-streams-to-node-js-6d049a1543e0
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
